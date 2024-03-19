@@ -1,0 +1,27 @@
+.user-profile {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.profile-info {
+    margin-top: 20px;
+}
+
+.info-item {
+    margin-bottom: 10px;
+}
+
+.info-item label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.info-item span {
+    color: #333;
+}
+.fullHt{
+    height: 100vh;
+}
