@@ -1,8 +1,21 @@
-# React + Vite
+# User interface of mern stack app (built with react.js) 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This project is that , this project is built in mern stack but instead of mongodb , I used postgesql database and sequelize orm . This is project for Task Management of diffent users . One page is for crud operaton , filteration , searching of tasks created by the loggedIn user , One for login of users , registeration of new users with 
+all the impostant valiations like no empty submittions , validate email with regex and etc 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+To get started with this project, follow these steps:
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Mohtisham-cs01/Task-Management-UI-
+
+#install all the dependencies
+npm i
+
+#run the project
+npm run dev 
